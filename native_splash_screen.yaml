@@ -1,0 +1,20 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#00a8d1"
+  #background_image: "assets/cutegirl.jpg"
+  image: "assets/images/sayed-ketab.png"
+  branding: "assets/images/sayed-ketab-text.png"  
+
+  # If you want to add a dark mode settings to your app
+  #background_image_dark: "assets/.jpg"
+  #image_dark: "assets/.png"
+  #branding_dark: "assets/.png"
+
+  android_12:
+   color: "#00a8d1"
+   image: "assets/images/sayed-ketab.png"
+   branding: "assets/images/sayed-ketab-text.png"  
+

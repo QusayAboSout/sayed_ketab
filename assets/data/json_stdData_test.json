@@ -1,0 +1,688 @@
+{
+  "student": {
+    "stdname": "كندا مازن عبد الحميد طوري",
+    "classname": "الصف الاحمر",
+    "stdid": "43",
+    "classid": "1"
+  },
+  "attendance": {
+    "totaldays": "173"
+  },
+  "reviews": [
+    {
+      "review1id": "2",
+      "review1name": "English Field",
+      "review1dets": [
+        {
+          "review2id": "3",
+          "review2name": "Communication Language",
+          "review2dets": [
+            {
+              "review3id": "33",
+              "review3name": "Understands spoken English",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "34",
+              "review3name": "Listening and attention",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "35",
+              "review3name": "Shows awarenesss and enjoys rhyming and rhythmic activities",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "36",
+              "review3name": "Listens to and joins in with stories",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "37",
+              "review3name": "Uses vocabulary and forms of speach that are learnt",
+              "reviewval": "Sometimes_Always"
+            }
+          ]
+        },
+        {
+          "review2id": "4",
+          "review2name": "Mathematics",
+          "review2dets": [
+            {
+              "review3id": "38",
+              "review3name": "Says and links sounds to letters",
+              "reviewval": "Sometimes_Sometimes"
+            },
+            {
+              "review3id": "39",
+              "review3name": "Sounding the phonics and distinguishing them",
+              "reviewval": "Sometimes_Sometimes"
+            },
+            {
+              "review3id": "40",
+              "review3name": "Writes own name",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "41",
+              "review3name": "Knows that English is read and written. From left to write. And from top to bottom",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "42",
+              "review3name": "Recognizing shapes",
+              "reviewval": "Sometimes_Sometimes"
+            },
+            {
+              "review3id": "43",
+              "review3name": "Recognizing colours",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "44",
+              "review3name": "Distinguishing numbers",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "45",
+              "review3name": "Can count ascend",
+              "reviewval": "Always_Always"
+            },
+            {
+              "review3id": "46",
+              "review3name": "Can count down",
+              "reviewval": "Sometimes_Sometimes"
+            },
+            {
+              "review3id": "122",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "3",
+      "review1name": "مجال التربية الاسلامية",
+      "review1dets": [
+        {
+          "review2id": "6",
+          "review2name": "يفهم ويستجيب لما يستمع إليه",
+          "review2dets": [
+            {
+              "review3id": "9",
+              "review3name": "يحفظ بعض السور القرآنية",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "10",
+              "review3name": "يحفظ بعض الأحاديث الشريفة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "11",
+              "review3name": "يحفظ بعض الأدعية المأثورة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "12",
+              "review3name": "يحفظ بعض الأناشيد الدينية",
+              "reviewval": "دائما_دائما"
+            }
+          ]
+        },
+        {
+          "review2id": "7",
+          "review2name": "يمارس الطفل بعضا من الآداب الإسلامية",
+          "review2dets": [
+            {
+              "review3id": "13",
+              "review3name": "يلقي تحية الإسلام عند الدخول والخروج",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "14",
+              "review3name": "يسمي بالله عندما يبدأ بأي عمل",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "15",
+              "review3name": "يحمد الله بعد نهاية العمل",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "16",
+              "review3name": "يذكر الله عز وجل خالقه ويعدد بعض أسمائه",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "124",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "4",
+      "review1name": "مجال الرياضة",
+      "review1dets": [
+        {
+          "review2id": "8",
+          "review2name": "العضلات الكبيرة",
+          "review2dets": [
+            {
+              "review3id": "17",
+              "review3name": "يقفز باستعمال القدمين 3 مرات إلى الأمام أو الخلف",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "18",
+              "review3name": "يلتقط الكرة بكلتا يديه بتحكم",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "20",
+              "review3name": "يستطيع ان يحجل 3 مرات على قدم واحد دون ان يفقد توازنه (مرة إلى اليمين وأخرى إلى اليسار) خلال دقيقة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "21",
+              "review3name": "يرمي الكرة من فوق الرأس باتجاهات مختلفة إلى الأمام أو الخلف بتحكم",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "22",
+              "review3name": "يستطيع أن يمشي على رؤوس أصابع القدم مسافة تقارب 3 أمتار",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "23",
+              "review3name": "يركض باتجاهات مختلفة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "24",
+              "review3name": "يصعد وينزل الدرج باستخدام الرجلين بالتواتر",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "25",
+              "review3name": "يمشي على خط مستقيم بتوازن",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "26",
+              "review3name": "يستطيع التصويب نحو هدف معين 3 محاولات",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "125",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "5",
+      "review1name": "مجال الصحة العامة والتغذية",
+      "review1dets": [
+        {
+          "review2id": "9",
+          "review2name": "المظاهر الصحية",
+          "review2dets": [
+            {
+              "review3id": "19",
+              "review3name": "الطول سم",
+              "reviewval": "105_108"
+            },
+            {
+              "review3id": "27",
+              "review3name": "الوزن نيوتن / الكتلة كغم",
+              "reviewval": "17_18.5"
+            },
+            {
+              "review3id": "29",
+              "review3name": "تكرار تأخر الطفل عن الدوام",
+              "reviewval": "_"
+            },
+            {
+              "review3id": "30",
+              "review3name": "يميز خصائص الطعام ومجموعاته من خلال التذوق(اللون،الرائحة،الشكل)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "47",
+              "review3name": "مستوى شهية الطفل للأكل",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "48",
+              "review3name": "يلتزم بآداب الطعام(طريقة الجلوس،نظافة الطاولة وما حولها)",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "126",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "8",
+      "review1name": "المنطق الرياضي",
+      "review1dets": [
+        {
+          "review2id": "11",
+          "review2name": "المنطق الرياضي",
+          "review2dets": [
+            {
+              "review3id": "60",
+              "review3name": "يسمي الأشكال الهندسية(مربع،مثلث،دائرة....)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "61",
+              "review3name": "يسمي الألوان الأساسية ويميز بينها",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "62",
+              "review3name": "يعدد أيام الأسبوع بالترتيب",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "63",
+              "review3name": "يسمي الفصول الأربعة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "64",
+              "review3name": "يذكر ملمس الأشياء(ناعم،خشن)(طري،قاسي)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "65",
+              "review3name": "يميز أوقات اليوم(الصبح،الظهر،المغرب)",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "66",
+              "review3name": "يعد ميكانيكياً من واحد حتى عشرين بالكلمات",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "67",
+              "review3name": "يسمي الجزء الناقص من صورة أمامه",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "68",
+              "review3name": "يصف الأشياء بناء على عدة متغيرات(لون،شكل،حجم)",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "69",
+              "review3name": "يقارن بين الأشياء حسب عدة متغيرات\r\n(....الحجم،الطول،الوزن،العدد)",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "70",
+              "review3name": "يميز المفاهيم المكانية",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "71",
+              "review3name": "يشكل نمط من المواد المختلفة",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "72",
+              "review3name": "يربط بين العدد والمعدود",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "73",
+              "review3name": " يميز بعض الإشارات الحسابية = - +",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "115",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "9",
+      "review1name": "المهارات الحياتية",
+      "review1dets": [
+        {
+          "review2id": "12",
+          "review2name": "المهارات الحياتية",
+          "review2dets": [
+            {
+              "review3id": "74",
+              "review3name": "يرتدي الملابس ويخلعها لوحده،بما في ذلك الأزرار والسحابات",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "75",
+              "review3name": "يستخدم الحمام دون مساعدة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "76",
+              "review3name": "ينظف أسنانه بنفسه ويضع المعجون على الفرشاة بشكل صحيح ويتمضمض دون بلع الماء(تطبيق عملي)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "78",
+              "review3name": "يستطيع أن يصب السائل من وعاء إلى كأس أو من كأس إلى آخر دون إراقته",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "79",
+              "review3name": "يمسح أنفه ويغطي فمه بشكل جيد عند السعال أو العطس",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "80",
+              "review3name": "يفهم ما هي الأشياء الخطرة(يسمي أربع أشياء خطرة يمكن أن تكون بالبيئة)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "81",
+              "review3name": "اهتمامه بالنظافة الشخصية ",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "116",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "10",
+      "review1name": "المجال الانفعالي",
+      "review1dets": [
+        {
+          "review2id": "13",
+          "review2name": "ضبط الانفعالات",
+          "review2dets": [
+            {
+              "review3id": "83",
+              "review3name": "ينفصل عن أمه دون انزعاج",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "84",
+              "review3name": "يفرغ انفعالاته السلبية بنشاطات إيجابية (التنفس بعمق ،الانسحاب)",
+              "reviewval": "أحيانا_أحيانا"
+            },
+            {
+              "review3id": "85",
+              "review3name": "يعبر عن ذاته بحرية",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "86",
+              "review3name": "يثق بنفسه ويعتز بأعماله ويستطيع اخذ قرارات خاصة",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "87",
+              "review3name": "يتحكم بسلوكه وانفعالاته",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "88",
+              "review3name": "يشارك الآخرين في أغراضه",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "89",
+              "review3name": "يستمتع بالتمثيل والتقليد والموسيقى والغناء ",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "90",
+              "review3name": "يتبع قوانين الروضة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "91",
+              "review3name": "يحافظ على ممتلكات الروضة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "92",
+              "review3name": "يحافظ على نظافة وترتيب بيئة الروضة",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "93",
+              "review3name": "يستخدم مفردات اجتماعية (السلام عليكم، لو سمحت،شكرا،من فضلك)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "94",
+              "review3name": "يستطيع تمثيل القصص وتقمص الشخصيات باستعمال الحركة والصوت وتعابير الوجه",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "95",
+              "review3name": "يميز بين الواقع والخيال في القصة والمسرح ويحاول استخدام الدمى لتمثيل دور الشخصيات الخيالية",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "96",
+              "review3name": "يساعد الأطفال الآخرين تلقائياً عند الحاجة لذلك(مثلا أن يلتقط شيئاً عن الأرض،يحضرشيئاً لشخص كبير بالسن،يساعد طفلاً آخر على النهوض",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "97",
+              "review3name": "يلعب مع الأطفال الآخرين (اللعب التشاركي)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "98",
+              "review3name": "يلعب الألعاب التمثيلية المختلفة(لعب دمى ، لعب الادوار)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "99",
+              "review3name": "يحترم القوانين الخاصة بلعبة معينة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "101",
+              "review3name": "يمكنه تسمية ثلاث أصدقاء على الأقل",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "102",
+              "review3name": "يشارك الآخرين (الأقران) أغراضه",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "103",
+              "review3name": "يتعاون ويساعد الأخرين",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "104",
+              "review3name": "يتعامل بلطف مع الآخرين ويعتذر عند الخطأ",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "117",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "11",
+      "review1name": "المهارات الجسمية الحركية",
+      "review1dets": [
+        {
+          "review2id": "14",
+          "review2name": "العضلات الصغيرة",
+          "review2dets": [
+            {
+              "review3id": "105",
+              "review3name": "يظهر مهارة في البقاء ضمن الخطوط المختلفة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "106",
+              "review3name": "يتحكم بمسك القلم",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "107",
+              "review3name": "يشكل أشكال مختلفة بالملتين ويبدع فيها ويستخدم الطفل أدوات الرسم(فرشاة،الالوان،أدوات الطباعة،الطباشير)بطريقة صحيحة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "109",
+              "review3name": "يتحكم بمسكة المقص ويقص بشكل جيد",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "110",
+              "review3name": "يسيطر على فرشاة الدهان، ويرسم أشكال واضحة ومعبرة ",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "111",
+              "review3name": "يستطيع أن يرسم معظم الخطوط بدقة (مستقيم ، منحنى ، متعرج)",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "112",
+              "review3name": "يصمم أشكال مختلفة من 8 مكعبات على الأقل ",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "113",
+              "review3name": "يلظم خرز متعدد الأحجام والأشكال والألوان بمهارة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "118",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "review1id": "12",
+      "review1name": "الجانب اللغوي",
+      "review1dets": [
+        {
+          "review2id": "15",
+          "review2name": "النمو اللغوي",
+          "review2dets": [
+            {
+              "review3id": "127",
+              "review3name": "يسمي الأشياء بأسمائها ضمن بيئته",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "128",
+              "review3name": "يذكر اسمه الرباعي",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "131",
+              "review3name": "يردد الأناشيد المسموعة على الأقل 3 أناشيد",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "132",
+              "review3name": "لديه القدرة على سرد قصة بشكل متسلسل",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "133",
+              "review3name": "يربط بين الصوت وصورة الكلمات المختلفة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "134",
+              "review3name": "يربط بين الكلمات والصور المطلوبة",
+              "reviewval": "أحيانا_دائما"
+            },
+            {
+              "review3id": "135",
+              "review3name": "يطابق الصور مع مثيلاتها",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "136",
+              "review3name": "يعبر عن عدد من الصور التي يشاهدها بجمل قصيرة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "137",
+              "review3name": "يبدأ بنسخ بعض الكلمات مثل اسمه",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "138",
+              "review3name": "يميز بين أصوات الحروف المختلفة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "139",
+              "review3name": "يميز بعض أصوات الحروف وأشكالها",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "140",
+              "review3name": "يشكل بعض الحروف والكلمات من خلال الملتين\t",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "141",
+              "review3name": "يكون بعض الكلمات من حروف تعلمها",
+              "reviewval": "يقيم الفصل الثاني_دائما"
+            },
+            {
+              "review3id": "142",
+              "review3name": "يعبر عن أفكاره بجمل واضحة",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "143",
+              "review3name": "ينطق أصوات الحروف الهجائية من مخارجها بشكل صحيح",
+              "reviewval": "دائما_دائما"
+            },
+            {
+              "review3id": "144",
+              "review3name": "ملاحظات المعلم",
+              "reviewval": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
